@@ -192,19 +192,13 @@
       const product = currentProduct();
       const src = `${product.dir}/t_${stamp}.png`;
       readout.textContent = formatStamp(stamp);
-      img.classList.remove("is-ready");
-      const loader = new Image();
-      loader.onload = () => {
-        img.src = src;
-        img.alt = `${product.label} — ${formatStamp(stamp)}`;
-        img.classList.add("is-ready");
-      };
-      loader.onerror = () => {
+      // Swap in place — no blank fade between frames
+      img.src = src;
+      img.alt = `${product.label} — ${formatStamp(stamp)}`;
+      img.onerror = () => {
         img.removeAttribute("src");
         img.alt = "Frame tidak tersedia";
-        img.classList.add("is-ready");
       };
-      loader.src = src;
     }
 
     productSelect.addEventListener("change", () => {

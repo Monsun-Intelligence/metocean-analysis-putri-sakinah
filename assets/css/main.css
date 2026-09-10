@@ -415,12 +415,7 @@ section {
 .viewer-frame img {
   width: 100%;
   height: auto;
-  opacity: 0;
-  transition: opacity 0.28s ease;
-}
-
-.viewer-frame img.is-ready {
-  opacity: 1;
+  display: block;
 }
 
 .viewer-hint {
@@ -590,8 +585,7 @@ section {
     scroll-behavior: auto;
   }
   .hero-media img,
-  .hero-copy,
-  .viewer-frame img {
+  .hero-copy {
     animation: none !important;
     transition: none !important;
   }
