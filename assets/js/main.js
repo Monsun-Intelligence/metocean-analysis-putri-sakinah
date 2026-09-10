@@ -230,13 +230,26 @@
   function initModelMenu() {
     const root = document.querySelector("[data-model-menu]");
     if (!root) return;
-    const items = [...root.querySelectorAll("details.model-item")];
-    items.forEach((item) => {
-      item.addEventListener("toggle", () => {
-        if (!item.open) return;
-        items.forEach((other) => {
-          if (other !== item) other.open = false;
-        });
+    const tabs = [...root.querySelectorAll("[data-model-tab]")];
+    const panels = [...root.querySelectorAll("[data-model-panel]")];
+
+    function activate(id) {
+      tabs.forEach((tab) => {
+        const on = tab.getAttribute("data-model-tab") === id;
+        tab.classList.toggle("is-active", on);
+        tab.setAttribute("aria-selected", on ? "true" : "false");
+      });
+      panels.forEach((panel) => {
+        const on = panel.getAttribute("data-model-panel") === id;
+        panel.classList.toggle("is-active", on);
+        if (on) panel.removeAttribute("hidden");
+        else panel.setAttribute("hidden", "");
+      });
+    }
+
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", () => {
+        activate(tab.getAttribute("data-model-tab"));
       });
     });
   }
