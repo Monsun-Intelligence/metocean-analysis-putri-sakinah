@@ -320,21 +320,57 @@ section {
 .viewer {
   background: rgba(255, 255, 255, 0.72);
   border: 1px solid var(--line);
-  padding: 1rem 1rem 1.15rem;
+  padding: 0.85rem 0.9rem 1rem;
+  max-width: 34rem;
+  margin-inline: auto;
 }
 
 .viewer-toolbar {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.75rem 1rem;
+  gap: 0.65rem 0.85rem;
   align-items: end;
-  margin-bottom: 0.85rem;
+  margin-bottom: 0.7rem;
+}
+
+.viewer-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  align-items: center;
+  width: 100%;
+}
+
+.viewer-btn {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: var(--white);
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.88rem;
+  padding: 0.38rem 0.7rem;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  line-height: 1.2;
+  transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+}
+
+.viewer-btn:hover {
+  border-color: rgba(14, 116, 144, 0.45);
+  background: rgba(14, 116, 144, 0.06);
+  transform: translateY(-1px);
+}
+
+.viewer-btn[aria-pressed="true"] {
+  background: rgba(14, 116, 144, 0.12);
+  border-color: rgba(14, 116, 144, 0.55);
+  color: var(--sea-deep);
 }
 
 .field {
   display: grid;
   gap: 0.3rem;
-  min-width: min(100%, 12rem);
+  min-width: min(100%, 11rem);
   flex: 1;
 }
 
@@ -353,7 +389,7 @@ section {
 }
 
 .field select {
-  padding: 0.45rem 0.55rem;
+  padding: 0.4rem 0.5rem;
   border: 1px solid var(--line);
   border-radius: 0.3rem;
   background: var(--white);
@@ -362,19 +398,23 @@ section {
 
 .time-readout {
   font-family: var(--font-mono);
-  font-size: 0.9rem;
-  min-width: 9.5rem;
+  font-size: 0.82rem;
+  min-width: 8.5rem;
+  color: var(--ink-soft);
 }
 
 .viewer-frame {
   position: relative;
   background: #dbe7ee;
   border: 1px solid var(--line);
-  min-height: 18rem;
+  max-width: 28rem;
+  margin-inline: auto;
+  min-height: 0;
 }
 
 .viewer-frame img {
   width: 100%;
+  height: auto;
   opacity: 0;
   transition: opacity 0.28s ease;
 }
@@ -384,9 +424,10 @@ section {
 }
 
 .viewer-hint {
-  margin: 0.55rem 0 0;
-  font-size: 0.85rem;
+  margin: 0.5rem 0 0;
+  font-size: 0.82rem;
   color: var(--ink-soft);
+  text-align: center;
 }
 
 /* —— Models —— */

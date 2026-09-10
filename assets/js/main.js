@@ -1,39 +1,92 @@
 (() => {
   const PRODUCTS = [
     {
+      id: "inacawo-current",
+      label: "Arus permukaan (INACAWO 3 km)",
+      dir: "figures/spatial/inacawo/current",
+      stepHours: 1,
+      end: "2025122900",
+    },
+    {
+      id: "inacawo-wind",
+      label: "Angin (INACAWO 3 km)",
+      dir: "figures/spatial/inacawo/wind",
+      stepHours: 1,
+      end: "2025122900",
+    },
+    {
+      id: "inacawo-swh",
+      label: "Significant wave height (INACAWO 3 km)",
+      dir: "figures/spatial/inacawo/swh",
+      stepHours: 1,
+      end: "2025122900",
+    },
+    {
+      id: "inacawo-swell",
+      label: "Swell height (INACAWO 3 km)",
+      dir: "figures/spatial/inacawo/swell",
+      stepHours: 1,
+      end: "2025122900",
+    },
+    {
       id: "seacurrent",
       label: "Arus permukaan (HYCOM)",
       dir: "figures/spatial/hycom/seacurrent",
+      stepHours: 3,
+      end: "2025122921",
     },
     {
       id: "swh",
       label: "Significant wave height (GFS Wave)",
       dir: "figures/spatial/gfs/swh",
+      stepHours: 3,
+      end: "2025122921",
     },
     {
       id: "swell",
       label: "Primary swell (GFS Wave)",
       dir: "figures/spatial/gfs/swell",
+      stepHours: 3,
+      end: "2025122921",
     },
     {
       id: "wind10m",
       label: "Angin 10 m (GFS Atmos)",
       dir: "figures/spatial/gfs/wind10m",
+      stepHours: 3,
+      end: "2025122921",
     },
   ];
 
-  /** Build 3-hourly stamps from 2025-12-23 00Z through 2025-12-29 21Z */
-  function buildStamps() {
+  const START_UTC = Date.UTC(2025, 11, 23, 0, 0, 0);
+  const PLAY_MS = 650;
+
+  function parseStamp(stamp) {
+    return Date.UTC(
+      Number(stamp.slice(0, 4)),
+      Number(stamp.slice(4, 6)) - 1,
+      Number(stamp.slice(6, 8)),
+      Number(stamp.slice(8, 10)),
+      0,
+      0
+    );
+  }
+
+  function toStamp(ms) {
+    const d = new Date(ms);
+    const y = d.getUTCFullYear();
+    const m = String(d.getUTCMonth() + 1).padStart(2, "0");
+    const day = String(d.getUTCDate()).padStart(2, "0");
+    const h = String(d.getUTCHours()).padStart(2, "0");
+    return `${y}${m}${day}${h}`;
+  }
+
+  function buildStamps(product) {
     const out = [];
-    const start = Date.UTC(2025, 11, 23, 0, 0, 0);
-    const end = Date.UTC(2025, 11, 29, 21, 0, 0);
-    for (let t = start; t <= end; t += 3 * 3600 * 1000) {
-      const d = new Date(t);
-      const y = d.getUTCFullYear();
-      const m = String(d.getUTCMonth() + 1).padStart(2, "0");
-      const day = String(d.getUTCDate()).padStart(2, "0");
-      const h = String(d.getUTCHours()).padStart(2, "0");
-      out.push(`${y}${m}${day}${h}`);
+    const end = parseStamp(product.end || "2025122921");
+    const step = (product.stepHours || 3) * 3600 * 1000;
+    for (let t = START_UTC; t <= end; t += step) {
+      out.push(toStamp(t));
     }
     return out;
   }
@@ -46,6 +99,20 @@
     return `${y}-${m}-${d} ${h}:00 UTC`;
   }
 
+  function nearestIndex(stamps, target) {
+    const want = parseStamp(target);
+    let best = 0;
+    let bestDiff = Infinity;
+    stamps.forEach((s, i) => {
+      const diff = Math.abs(parseStamp(s) - want);
+      if (diff < bestDiff) {
+        bestDiff = diff;
+        best = i;
+      }
+    });
+    return best;
+  }
+
   function initViewer() {
     const root = document.getElementById("spatial-viewer");
     if (!root) return;
@@ -54,8 +121,13 @@
     const timeRange = root.querySelector("[data-time]");
     const readout = root.querySelector("[data-readout]");
     const img = root.querySelector("[data-frame]");
-    const stamps = buildStamps();
-    const eventIdx = stamps.indexOf("2025122612");
+    const btnPrev = root.querySelector("[data-prev]");
+    const btnNext = root.querySelector("[data-next]");
+    const btnPlay = root.querySelector("[data-play]");
+
+    let stamps = [];
+    let playing = false;
+    let timer = null;
 
     PRODUCTS.forEach((p) => {
       const opt = document.createElement("option");
@@ -64,38 +136,95 @@
       productSelect.appendChild(opt);
     });
 
-    timeRange.min = "0";
-    timeRange.max = String(stamps.length - 1);
-    timeRange.value = String(eventIdx >= 0 ? eventIdx : 0);
-    timeRange.step = "1";
-
     function currentProduct() {
       return PRODUCTS.find((p) => p.id === productSelect.value) || PRODUCTS[0];
+    }
+
+    function setPlaying(on) {
+      playing = on;
+      if (btnPlay) {
+        btnPlay.textContent = on ? "Pause" : "Play";
+        btnPlay.setAttribute("aria-pressed", on ? "true" : "false");
+      }
+      if (timer) {
+        clearInterval(timer);
+        timer = null;
+      }
+      if (on) {
+        timer = setInterval(() => {
+          const max = Number(timeRange.max);
+          let idx = Number(timeRange.value) + 1;
+          if (idx > max) idx = 0;
+          timeRange.value = String(idx);
+          render();
+        }, PLAY_MS);
+      }
+    }
+
+    function syncSlider() {
+      const product = currentProduct();
+      stamps = buildStamps(product);
+      const prevStamp =
+        timeRange.dataset.stamp ||
+        stamps[Number(timeRange.value)] ||
+        "2025122612";
+      timeRange.min = "0";
+      timeRange.max = String(Math.max(stamps.length - 1, 0));
+      timeRange.step = "1";
+      timeRange.value = String(nearestIndex(stamps, prevStamp));
+    }
+
+    function step(delta) {
+      setPlaying(false);
+      const max = Number(timeRange.max);
+      let idx = Number(timeRange.value) + delta;
+      if (idx < 0) idx = max;
+      if (idx > max) idx = 0;
+      timeRange.value = String(idx);
+      render();
     }
 
     function render() {
       const idx = Number(timeRange.value);
       const stamp = stamps[idx];
+      if (!stamp) return;
+      timeRange.dataset.stamp = stamp;
       const product = currentProduct();
       const src = `${product.dir}/t_${stamp}.png`;
       readout.textContent = formatStamp(stamp);
       img.classList.remove("is-ready");
-      const next = new Image();
-      next.onload = () => {
+      const loader = new Image();
+      loader.onload = () => {
         img.src = src;
         img.alt = `${product.label} — ${formatStamp(stamp)}`;
         img.classList.add("is-ready");
       };
-      next.onerror = () => {
+      loader.onerror = () => {
         img.removeAttribute("src");
         img.alt = "Frame tidak tersedia";
         img.classList.add("is-ready");
       };
-      next.src = src;
+      loader.src = src;
     }
 
-    productSelect.addEventListener("change", render);
-    timeRange.addEventListener("input", render);
+    productSelect.addEventListener("change", () => {
+      setPlaying(false);
+      syncSlider();
+      render();
+    });
+    timeRange.addEventListener("input", () => {
+      setPlaying(false);
+      render();
+    });
+    btnPrev?.addEventListener("click", () => step(-1));
+    btnNext?.addEventListener("click", () => step(1));
+    btnPlay?.addEventListener("click", () => setPlaying(!playing));
+
+    document.addEventListener("visibilitychange", () => {
+      if (document.hidden) setPlaying(false);
+    });
+
+    syncSlider();
     render();
   }
 
