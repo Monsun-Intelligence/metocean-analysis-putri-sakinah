@@ -1,0 +1,561 @@
+time,variable,value,lon,lat,site,source
+2025-12-23 00:00:00,seacurrent_ms,0.5636958719937312,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-23 03:00:00,seacurrent_ms,0.7057082123095751,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-23 06:00:00,seacurrent_ms,0.9790551881494608,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-23 09:00:00,seacurrent_ms,0.1612265571560598,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-23 12:00:00,seacurrent_ms,0.6578153586275242,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-23 15:00:00,seacurrent_ms,0.21637931310144354,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-23 18:00:00,seacurrent_ms,0.8327929530791732,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-23 21:00:00,seacurrent_ms,0.12747549459046695,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-24 00:00:00,seacurrent_ms,0.6745465382087414,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-24 03:00:00,seacurrent_ms,0.4089022150073096,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-24 06:00:00,seacurrent_ms,1.0841130389857092,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-24 09:00:00,seacurrent_ms,0.10670520570128153,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-24 12:00:00,seacurrent_ms,0.769758418210301,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-24 15:00:00,seacurrent_ms,0.08411896556449953,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-24 18:00:00,seacurrent_ms,0.9078463798228282,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-24 21:00:00,seacurrent_ms,0.21513950042242325,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-25 00:00:00,seacurrent_ms,0.6959174263171615,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-25 03:00:00,seacurrent_ms,0.1490033596010478,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-25 06:00:00,seacurrent_ms,1.1166938247428972,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-25 09:00:00,seacurrent_ms,0.36462175150174,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-25 12:00:00,seacurrent_ms,0.7814205415937875,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-25 15:00:00,seacurrent_ms,0.33455195327688036,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-25 18:00:00,seacurrent_ms,0.7784420884060349,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-25 21:00:00,seacurrent_ms,0.32735456364362286,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-26 00:00:00,seacurrent_ms,0.7932042831985044,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-26 03:00:00,seacurrent_ms,0.297994979898521,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-26 06:00:00,seacurrent_ms,0.9673040047383629,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-26 09:00:00,seacurrent_ms,0.5528155370276286,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-26 12:00:00,seacurrent_ms,0.6559977433559089,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-26 15:00:00,seacurrent_ms,0.5749791654763746,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-26 18:00:00,seacurrent_ms,0.5479023927685445,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-26 21:00:00,seacurrent_ms,0.5515886325967283,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-27 00:00:00,seacurrent_ms,0.6039487079700347,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-27 03:00:00,seacurrent_ms,0.47393249656675207,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-27 06:00:00,seacurrent_ms,0.7634409158690366,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-27 09:00:00,seacurrent_ms,0.7940592345733949,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-27 12:00:00,seacurrent_ms,0.33829279362564924,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-27 15:00:00,seacurrent_ms,0.6161923524166567,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-27 18:00:00,seacurrent_ms,0.4648354829612792,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-27 21:00:00,seacurrent_ms,0.8394504304869426,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-28 00:00:00,seacurrent_ms,0.15283978938975,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-28 03:00:00,seacurrent_ms,0.588809829547537,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-28 06:00:00,seacurrent_ms,0.4012542963035624,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-28 09:00:00,seacurrent_ms,0.9273327806611064,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-28 12:00:00,seacurrent_ms,0.10323274881413814,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-28 15:00:00,seacurrent_ms,0.7063950831974557,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-28 18:00:00,seacurrent_ms,0.06041523314219553,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-28 21:00:00,seacurrent_ms,0.8757539762553149,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-29 00:00:00,seacurrent_ms,0.2380462317830821,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-29 03:00:00,seacurrent_ms,0.5944451311656614,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-29 06:00:00,seacurrent_ms,0.10212248104290444,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-29 09:00:00,seacurrent_ms,0.8380788143350087,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-29 12:00:00,seacurrent_ms,0.2546154113194447,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-29 15:00:00,seacurrent_ms,0.6741068416861138,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-29 18:00:00,seacurrent_ms,0.3590264811099902,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-29 21:00:00,seacurrent_ms,0.7024813534138749,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),hycom
+2025-12-23 00:00:00,seacurrent_ms,0.0746324370746242,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-23 03:00:00,seacurrent_ms,0.06621933406826086,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-23 06:00:00,seacurrent_ms,0.06103277877449641,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-23 09:00:00,seacurrent_ms,0.04428318274539632,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-23 12:00:00,seacurrent_ms,0.06280127598037988,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-23 15:00:00,seacurrent_ms,0.008246211642909338,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-23 18:00:00,seacurrent_ms,0.014317821328665626,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-23 21:00:00,seacurrent_ms,0.03132092082483589,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-24 00:00:00,seacurrent_ms,0.0470106392106691,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-24 03:00:00,seacurrent_ms,0.014035669282037746,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-24 06:00:00,seacurrent_ms,0.03969886773474212,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-24 09:00:00,seacurrent_ms,0.028319606528066033,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-24 12:00:00,seacurrent_ms,0.04201190326673209,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-24 15:00:00,seacurrent_ms,0.06198387336467888,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-24 18:00:00,seacurrent_ms,0.06767570009873501,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-24 21:00:00,seacurrent_ms,0.06661080965266211,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-25 00:00:00,seacurrent_ms,0.0738173449244098,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-25 03:00:00,seacurrent_ms,0.051623638845192124,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-25 06:00:00,seacurrent_ms,0.042379243015860976,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-25 09:00:00,seacurrent_ms,0.024207438225593014,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-25 12:00:00,seacurrent_ms,0.05745433239553867,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-25 15:00:00,seacurrent_ms,0.04081666420435145,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-25 18:00:00,seacurrent_ms,0.06935416700967248,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-25 21:00:00,seacurrent_ms,0.03911521523550847,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-26 00:00:00,seacurrent_ms,0.05889822027184333,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-26 03:00:00,seacurrent_ms,0.05643580598007638,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-26 06:00:00,seacurrent_ms,0.11322985612272742,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-26 09:00:00,seacurrent_ms,0.019209373242893398,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-26 12:00:00,seacurrent_ms,0.04177319833270744,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-26 15:00:00,seacurrent_ms,0.027202942874436885,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-26 18:00:00,seacurrent_ms,0.04081666420435145,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-26 21:00:00,seacurrent_ms,0.05243090879540964,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-27 00:00:00,seacurrent_ms,0.02051828525927878,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-27 03:00:00,seacurrent_ms,0.012083046913623283,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-27 06:00:00,seacurrent_ms,0.06129437501395566,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-27 09:00:00,seacurrent_ms,0.049406480203836686,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-27 12:00:00,seacurrent_ms,0.01562049988507086,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-27 15:00:00,seacurrent_ms,0.02915476045171599,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-27 18:00:00,seacurrent_ms,0.026627055687637992,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-27 21:00:00,seacurrent_ms,0.022135945187972163,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-28 00:00:00,seacurrent_ms,0.024083189373369136,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-28 03:00:00,seacurrent_ms,0.0252982215994179,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-28 06:00:00,seacurrent_ms,0.07657676092029225,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-28 09:00:00,seacurrent_ms,0.03945884011713396,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-28 12:00:00,seacurrent_ms,0.039204592387673286,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-28 15:00:00,seacurrent_ms,0.04438468367314094,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-28 18:00:00,seacurrent_ms,0.03228002623701561,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-28 21:00:00,seacurrent_ms,0.04140048317139224,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-29 00:00:00,seacurrent_ms,0.01029563078830477,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-29 03:00:00,seacurrent_ms,0.032984846571637354,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-29 06:00:00,seacurrent_ms,0.006708203990809385,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-29 09:00:00,seacurrent_ms,0.0421900493822869,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-29 12:00:00,seacurrent_ms,0.05371219811919522,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-29 15:00:00,seacurrent_ms,0.02647640518337034,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-29 18:00:00,seacurrent_ms,0.0252982215994179,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-29 21:00:00,seacurrent_ms,0.04830114079706782,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",hycom
+2025-12-23 00:00:00,swell,0.11999999731779099,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 03:00:00,swell,0.10999999940395355,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 06:00:00,swell,0.10000000149011612,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 09:00:00,swell,0.09000000357627869,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 12:00:00,swell,0.10999999940395355,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 15:00:00,swell,0.1599999964237213,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 18:00:00,swell,0.17000000178813934,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 21:00:00,swell,0.1599999964237213,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 00:00:00,swell,0.49000000953674316,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 03:00:00,swell,0.4300000071525574,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 06:00:00,swell,0.4000000059604645,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 09:00:00,swell,0.38999998569488525,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 12:00:00,swell,0.3400000035762787,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 15:00:00,swell,0.28999999165534973,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 18:00:00,swell,0.25,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 21:00:00,swell,0.23000000417232513,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 00:00:00,swell,0.20999999344348907,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 03:00:00,swell,0.20000000298023224,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 06:00:00,swell,0.1899999976158142,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 09:00:00,swell,0.18000000715255737,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 12:00:00,swell,0.44999998807907104,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 15:00:00,swell,0.46000000834465027,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 18:00:00,swell,0.44999998807907104,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 21:00:00,swell,0.44999998807907104,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 00:00:00,swell,0.4399999976158142,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 03:00:00,swell,0.4300000071525574,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 06:00:00,swell,0.4099999964237213,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 09:00:00,swell,0.4099999964237213,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 12:00:00,swell,0.33000001311302185,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 15:00:00,swell,0.2800000011920929,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 18:00:00,swell,0.23999999463558197,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 21:00:00,swell,0.47999998927116394,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 00:00:00,swell,0.4099999964237213,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 03:00:00,swell,0.4000000059604645,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 06:00:00,swell,0.27000001072883606,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 09:00:00,swell,0.30000001192092896,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 12:00:00,swell,0.25999999046325684,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 15:00:00,swell,0.27000001072883606,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 18:00:00,swell,0.25999999046325684,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 21:00:00,swell,0.25,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 00:00:00,swell,0.3400000035762787,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 03:00:00,swell,0.46000000834465027,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 06:00:00,swell,0.5,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 09:00:00,swell,0.49000000953674316,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 12:00:00,swell,0.46000000834465027,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 15:00:00,swell,0.46000000834465027,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 18:00:00,swell,0.20000000298023224,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 21:00:00,swell,0.17000000178813934,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 00:00:00,swell,0.25,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 03:00:00,swell,0.30000001192092896,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 06:00:00,swell,0.27000001072883606,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 09:00:00,swell,0.25999999046325684,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 12:00:00,swell,0.25,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 15:00:00,swell,0.23999999463558197,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 18:00:00,swell,0.23000000417232513,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 21:00:00,swell,0.20999999344348907,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 00:00:00,swell,0.11999999731779099,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 03:00:00,swell,0.10999999940395355,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 06:00:00,swell,0.10000000149011612,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 09:00:00,swell,0.09000000357627869,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 12:00:00,swell,0.10999999940395355,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 15:00:00,swell,0.1599999964237213,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 18:00:00,swell,0.17000000178813934,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 21:00:00,swell,0.1599999964237213,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 00:00:00,swell,0.49000000953674316,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 03:00:00,swell,0.4300000071525574,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 06:00:00,swell,0.4000000059604645,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 09:00:00,swell,0.38999998569488525,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 12:00:00,swell,0.3400000035762787,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 15:00:00,swell,0.28999999165534973,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 18:00:00,swell,0.25,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 21:00:00,swell,0.23000000417232513,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 00:00:00,swell,0.20999999344348907,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 03:00:00,swell,0.20000000298023224,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 06:00:00,swell,0.1899999976158142,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 09:00:00,swell,0.18000000715255737,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 12:00:00,swell,0.44999998807907104,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 15:00:00,swell,0.46000000834465027,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 18:00:00,swell,0.44999998807907104,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 21:00:00,swell,0.44999998807907104,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 00:00:00,swell,0.4399999976158142,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 03:00:00,swell,0.4300000071525574,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 06:00:00,swell,0.4099999964237213,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 09:00:00,swell,0.4099999964237213,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 12:00:00,swell,0.33000001311302185,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 15:00:00,swell,0.2800000011920929,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 18:00:00,swell,0.23999999463558197,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 21:00:00,swell,0.47999998927116394,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 00:00:00,swell,0.4099999964237213,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 03:00:00,swell,0.4000000059604645,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 06:00:00,swell,0.27000001072883606,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 09:00:00,swell,0.30000001192092896,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 12:00:00,swell,0.25999999046325684,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 15:00:00,swell,0.27000001072883606,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 18:00:00,swell,0.25999999046325684,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 21:00:00,swell,0.25,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 00:00:00,swell,0.3400000035762787,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 03:00:00,swell,0.46000000834465027,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 06:00:00,swell,0.5,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 09:00:00,swell,0.49000000953674316,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 12:00:00,swell,0.46000000834465027,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 15:00:00,swell,0.46000000834465027,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 18:00:00,swell,0.20000000298023224,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 21:00:00,swell,0.17000000178813934,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 00:00:00,swell,0.25,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 03:00:00,swell,0.30000001192092896,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 06:00:00,swell,0.27000001072883606,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 09:00:00,swell,0.25999999046325684,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 12:00:00,swell,0.25,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 15:00:00,swell,0.23999999463558197,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 18:00:00,swell,0.23000000417232513,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 21:00:00,swell,0.20999999344348907,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 00:00:00,swh,0.15000000596046448,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 03:00:00,swh,0.15000000596046448,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 06:00:00,swh,0.14000000059604645,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 09:00:00,swh,0.25999999046325684,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 12:00:00,swh,0.20999999344348907,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 15:00:00,swh,0.23000000417232513,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 18:00:00,swh,0.23000000417232513,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 21:00:00,swh,0.18000000715255737,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 00:00:00,swh,0.17000000178813934,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 03:00:00,swh,0.2199999988079071,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 06:00:00,swh,0.25999999046325684,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 09:00:00,swh,0.41999998688697815,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 12:00:00,swh,0.3400000035762787,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 15:00:00,swh,0.28999999165534973,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 18:00:00,swh,0.25,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 21:00:00,swh,0.23000000417232513,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 00:00:00,swh,0.20999999344348907,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 03:00:00,swh,0.20000000298023224,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 06:00:00,swh,0.1899999976158142,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 09:00:00,swh,0.18000000715255737,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 12:00:00,swh,0.1899999976158142,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 15:00:00,swh,0.23999999463558197,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 18:00:00,swh,0.2800000011920929,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 21:00:00,swh,0.33000001311302185,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 00:00:00,swh,0.3400000035762787,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 03:00:00,swh,0.33000001311302185,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 06:00:00,swh,0.33000001311302185,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 09:00:00,swh,0.36000001430511475,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 12:00:00,swh,0.33000001311302185,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 15:00:00,swh,0.2800000011920929,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 18:00:00,swh,0.23999999463558197,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 21:00:00,swh,0.28999999165534973,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 00:00:00,swh,0.3199999928474426,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 03:00:00,swh,0.3400000035762787,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 06:00:00,swh,0.36000001430511475,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 09:00:00,swh,0.30000001192092896,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 12:00:00,swh,0.25999999046325684,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 15:00:00,swh,0.27000001072883606,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 18:00:00,swh,0.25999999046325684,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 21:00:00,swh,0.25,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 00:00:00,swh,0.3700000047683716,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 03:00:00,swh,0.4399999976158142,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 06:00:00,swh,0.5699999928474426,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 09:00:00,swh,0.5600000023841858,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 12:00:00,swh,0.49000000953674316,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 15:00:00,swh,0.46000000834465027,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 18:00:00,swh,0.4000000059604645,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 21:00:00,swh,0.3799999952316284,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 00:00:00,swh,0.3499999940395355,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 03:00:00,swh,0.30000001192092896,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 06:00:00,swh,0.27000001072883606,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 09:00:00,swh,0.25999999046325684,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 12:00:00,swh,0.25,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 15:00:00,swh,0.23999999463558197,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 18:00:00,swh,0.23000000417232513,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 21:00:00,swh,0.20999999344348907,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 00:00:00,swh,0.15000000596046448,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 03:00:00,swh,0.15000000596046448,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 06:00:00,swh,0.14000000059604645,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 09:00:00,swh,0.25999999046325684,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 12:00:00,swh,0.20999999344348907,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 15:00:00,swh,0.23000000417232513,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 18:00:00,swh,0.23000000417232513,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 21:00:00,swh,0.18000000715255737,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 00:00:00,swh,0.17000000178813934,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 03:00:00,swh,0.2199999988079071,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 06:00:00,swh,0.25999999046325684,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 09:00:00,swh,0.41999998688697815,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 12:00:00,swh,0.3400000035762787,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 15:00:00,swh,0.28999999165534973,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 18:00:00,swh,0.25,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 21:00:00,swh,0.23000000417232513,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 00:00:00,swh,0.20999999344348907,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 03:00:00,swh,0.20000000298023224,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 06:00:00,swh,0.1899999976158142,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 09:00:00,swh,0.18000000715255737,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 12:00:00,swh,0.1899999976158142,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 15:00:00,swh,0.23999999463558197,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 18:00:00,swh,0.2800000011920929,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 21:00:00,swh,0.33000001311302185,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 00:00:00,swh,0.3400000035762787,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 03:00:00,swh,0.33000001311302185,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 06:00:00,swh,0.33000001311302185,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 09:00:00,swh,0.36000001430511475,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 12:00:00,swh,0.33000001311302185,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 15:00:00,swh,0.2800000011920929,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 18:00:00,swh,0.23999999463558197,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 21:00:00,swh,0.28999999165534973,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 00:00:00,swh,0.3199999928474426,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 03:00:00,swh,0.3400000035762787,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 06:00:00,swh,0.36000001430511475,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 09:00:00,swh,0.30000001192092896,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 12:00:00,swh,0.25999999046325684,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 15:00:00,swh,0.27000001072883606,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 18:00:00,swh,0.25999999046325684,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 21:00:00,swh,0.25,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 00:00:00,swh,0.3700000047683716,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 03:00:00,swh,0.4399999976158142,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 06:00:00,swh,0.5699999928474426,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 09:00:00,swh,0.5600000023841858,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 12:00:00,swh,0.49000000953674316,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 15:00:00,swh,0.46000000834465027,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 18:00:00,swh,0.4000000059604645,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 21:00:00,swh,0.3799999952316284,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 00:00:00,swh,0.3499999940395355,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 03:00:00,swh,0.30000001192092896,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 06:00:00,swh,0.27000001072883606,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 09:00:00,swh,0.25999999046325684,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 12:00:00,swh,0.25,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 15:00:00,swh,0.23999999463558197,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 18:00:00,swh,0.23000000417232513,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 21:00:00,swh,0.20999999344348907,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 00:00:00,wind10m_ms,2.4653618054296915,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 03:00:00,wind10m_ms,2.5559367132242596,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 06:00:00,wind10m_ms,3.6393797624554045,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 09:00:00,wind10m_ms,4.9134728149465445,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 12:00:00,wind10m_ms,4.085834195171387,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 15:00:00,wind10m_ms,4.820725044283592,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 18:00:00,wind10m_ms,3.7951749856698482,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 21:00:00,wind10m_ms,1.6380389878524904,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 00:00:00,wind10m_ms,3.3387468654317387,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 03:00:00,wind10m_ms,4.261397626850843,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 06:00:00,wind10m_ms,4.0988696945925085,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 09:00:00,wind10m_ms,3.7788712771073905,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 12:00:00,wind10m_ms,2.755375465892853,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 15:00:00,wind10m_ms,2.1900626653049446,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 18:00:00,wind10m_ms,1.4262937797628321,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 21:00:00,wind10m_ms,0.8637564276685725,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 00:00:00,wind10m_ms,1.1291637841265714,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 03:00:00,wind10m_ms,0.8097356358224281,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 06:00:00,wind10m_ms,0.47908865959755664,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 09:00:00,wind10m_ms,1.3494959046744437,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 12:00:00,wind10m_ms,3.325845883691732,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 15:00:00,wind10m_ms,4.582888979737598,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 18:00:00,wind10m_ms,4.924534862710415,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 21:00:00,wind10m_ms,4.464266619159932,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 00:00:00,wind10m_ms,4.282604656635751,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 03:00:00,wind10m_ms,4.247293860500838,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 06:00:00,wind10m_ms,3.7172281941757754,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 09:00:00,wind10m_ms,3.8966984031431893,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 12:00:00,wind10m_ms,0.858599177689877,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 15:00:00,wind10m_ms,0.44587167969114044,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 18:00:00,wind10m_ms,2.2726979266323113,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 21:00:00,wind10m_ms,3.0911904377893027,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 00:00:00,wind10m_ms,2.881180846366555,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 03:00:00,wind10m_ms,3.680054718196969,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 06:00:00,wind10m_ms,2.780834176494644,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 09:00:00,wind10m_ms,1.3494326795496852,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 12:00:00,wind10m_ms,1.1301658449885519,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 15:00:00,wind10m_ms,1.5038683478957768,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 18:00:00,wind10m_ms,1.2794528891243848,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 21:00:00,wind10m_ms,3.126379988213441,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 00:00:00,wind10m_ms,2.4521723195648235,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 03:00:00,wind10m_ms,3.4972541347656994,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 06:00:00,wind10m_ms,5.667085688358896,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 09:00:00,wind10m_ms,4.872037407668803,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 12:00:00,wind10m_ms,3.697059846275804,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 15:00:00,wind10m_ms,3.8315185549291884,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 18:00:00,wind10m_ms,4.587648610632634,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 21:00:00,wind10m_ms,4.461691283377095,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 00:00:00,wind10m_ms,3.3046850957450427,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 03:00:00,wind10m_ms,2.800779365009396,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 06:00:00,wind10m_ms,2.3392804668950347,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 09:00:00,wind10m_ms,1.3788437140075887,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 12:00:00,wind10m_ms,0.6531110775546256,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 15:00:00,wind10m_ms,1.0615047865593437,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 18:00:00,wind10m_ms,1.1362438385397449,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 21:00:00,wind10m_ms,0.46728291858146714,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 00:00:00,wind10m_ms,2.815245320913887,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 03:00:00,wind10m_ms,2.9384991806618723,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 06:00:00,wind10m_ms,3.7456585236270006,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 09:00:00,wind10m_ms,5.366410066993503,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 12:00:00,wind10m_ms,3.8993000934832827,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 15:00:00,wind10m_ms,4.816675558359541,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 18:00:00,wind10m_ms,4.084939489740522,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 21:00:00,wind10m_ms,1.5266309932166002,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 00:00:00,wind10m_ms,3.358143172130921,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 03:00:00,wind10m_ms,4.602991398324005,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 06:00:00,wind10m_ms,4.487361721180101,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 09:00:00,wind10m_ms,4.424014562349885,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 12:00:00,wind10m_ms,2.366517523554733,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 15:00:00,wind10m_ms,2.169118804835667,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 18:00:00,wind10m_ms,1.111689769389429,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 21:00:00,wind10m_ms,0.7764745636800339,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 00:00:00,wind10m_ms,1.482496931605824,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 03:00:00,wind10m_ms,1.1580258966944026,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 06:00:00,wind10m_ms,0.6978273261562016,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 09:00:00,wind10m_ms,1.4363053567785333,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 12:00:00,wind10m_ms,3.5146595497636057,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 15:00:00,wind10m_ms,4.766294733231036,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 18:00:00,wind10m_ms,4.982818564936607,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 21:00:00,wind10m_ms,4.596138179843962,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 00:00:00,wind10m_ms,4.592686730116016,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 03:00:00,wind10m_ms,4.360711431754105,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 06:00:00,wind10m_ms,3.8897359210086178,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 09:00:00,wind10m_ms,3.753737000518948,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 12:00:00,wind10m_ms,1.1484002651753806,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 15:00:00,wind10m_ms,1.019821573858217,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 18:00:00,wind10m_ms,2.3381499638416963,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 21:00:00,wind10m_ms,3.5466097579421034,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 00:00:00,wind10m_ms,3.6388274048062126,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 03:00:00,wind10m_ms,4.4690328335047536,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 06:00:00,wind10m_ms,3.347361652902535,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 09:00:00,wind10m_ms,1.258051311701882,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 12:00:00,wind10m_ms,0.7416626586857678,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 15:00:00,wind10m_ms,1.1363839772884685,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 18:00:00,wind10m_ms,1.2945458823154492,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 21:00:00,wind10m_ms,3.239470857460719,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 00:00:00,wind10m_ms,3.0785016917971326,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 03:00:00,wind10m_ms,4.3167738650836425,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 06:00:00,wind10m_ms,6.140093511827647,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 09:00:00,wind10m_ms,5.1148472872991775,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 12:00:00,wind10m_ms,4.351346005740734,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 15:00:00,wind10m_ms,4.214298929815172,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 18:00:00,wind10m_ms,4.81348331049705,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 21:00:00,wind10m_ms,4.648245291859341,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 00:00:00,wind10m_ms,3.673189622658349,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 03:00:00,wind10m_ms,3.1762499316871424,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 06:00:00,wind10m_ms,2.1468189164540004,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 09:00:00,wind10m_ms,1.435901381740728,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 12:00:00,wind10m_ms,0.7767996670173637,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 15:00:00,wind10m_ms,1.40811282684127,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 18:00:00,wind10m_ms,1.4164403449632266,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 21:00:00,wind10m_ms,0.4258517000957495,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 00:00:00,wind_sfc_ms,1.8602419335931588,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 03:00:00,wind_sfc_ms,2.6421391906878786,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 06:00:00,wind_sfc_ms,2.997365444542128,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 09:00:00,wind_sfc_ms,6.02536304456436,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 12:00:00,wind_sfc_ms,3.1441372740020723,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 15:00:00,wind_sfc_ms,4.805434542783972,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 18:00:00,wind_sfc_ms,3.496884381183658,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 21:00:00,wind_sfc_ms,0.6040695266591235,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 00:00:00,wind_sfc_ms,3.1300159117108373,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 03:00:00,wind_sfc_ms,4.177379611225061,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 06:00:00,wind_sfc_ms,4.039269652588755,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 09:00:00,wind_sfc_ms,4.763192041133274,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 12:00:00,wind_sfc_ms,2.1180415117069895,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 15:00:00,wind_sfc_ms,1.8128982753284013,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 18:00:00,wind_sfc_ms,0.1860107568314509,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-24 21:00:00,wind_sfc_ms,0.8302409210765447,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 00:00:00,wind_sfc_ms,2.7613220597013166,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 03:00:00,wind_sfc_ms,1.5299999713897705,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 06:00:00,wind_sfc_ms,0.7564390247653929,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 09:00:00,wind_sfc_ms,1.5147607612010412,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 12:00:00,wind_sfc_ms,3.6648875432728976,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 15:00:00,wind_sfc_ms,4.2115318597090985,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 18:00:00,wind_sfc_ms,4.092981681359142,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-25 21:00:00,wind_sfc_ms,3.9118410378204,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 00:00:00,wind_sfc_ms,4.167601216476704,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 03:00:00,wind_sfc_ms,3.553941395959595,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 06:00:00,wind_sfc_ms,3.4710950444382447,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 09:00:00,wind_sfc_ms,3.269143707780803,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 12:00:00,wind_sfc_ms,1.637681291605483,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 15:00:00,wind_sfc_ms,1.3911865496497449,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 18:00:00,wind_sfc_ms,1.8402445823294848,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-26 21:00:00,wind_sfc_ms,3.563846203479923,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 00:00:00,wind_sfc_ms,3.2006250428175758,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 03:00:00,wind_sfc_ms,4.335308352363722,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 06:00:00,wind_sfc_ms,3.2480455240344317,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 09:00:00,wind_sfc_ms,0.5554277538510307,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 12:00:00,wind_sfc_ms,1.347367826554352,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 15:00:00,wind_sfc_ms,1.647786379338904,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 18:00:00,wind_sfc_ms,1.387984133275173,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-27 21:00:00,wind_sfc_ms,3.1522055509127385,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 00:00:00,wind_sfc_ms,2.844784709313368,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 03:00:00,wind_sfc_ms,4.29495056569091,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 06:00:00,wind_sfc_ms,6.040943762296614,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 09:00:00,wind_sfc_ms,4.721779471521085,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 12:00:00,wind_sfc_ms,4.657595900706693,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 15:00:00,wind_sfc_ms,4.295974879042205,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 18:00:00,wind_sfc_ms,4.282674194596743,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-28 21:00:00,wind_sfc_ms,3.902332740506976,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 00:00:00,wind_sfc_ms,3.002165895286817,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 03:00:00,wind_sfc_ms,2.08405846400177,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 06:00:00,wind_sfc_ms,0.8616263775534323,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 09:00:00,wind_sfc_ms,0.6264982095397488,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 12:00:00,wind_sfc_ms,1.2701574514742113,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 15:00:00,wind_sfc_ms,2.1467416961241,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 18:00:00,wind_sfc_ms,1.5754364386872117,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-29 21:00:00,wind_sfc_ms,0.5813776574386791,119.6119,-8.609794,Titik Dugaan Tenggelam (Selat Padar),gfs
+2025-12-23 00:00:00,wind_sfc_ms,1.8602419335931588,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 03:00:00,wind_sfc_ms,2.6421391906878786,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 06:00:00,wind_sfc_ms,2.997365444542128,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 09:00:00,wind_sfc_ms,6.02536304456436,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 12:00:00,wind_sfc_ms,3.1441372740020723,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 15:00:00,wind_sfc_ms,4.805434542783972,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 18:00:00,wind_sfc_ms,3.496884381183658,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-23 21:00:00,wind_sfc_ms,0.6040695266591235,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 00:00:00,wind_sfc_ms,3.1300159117108373,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 03:00:00,wind_sfc_ms,4.177379611225061,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 06:00:00,wind_sfc_ms,4.039269652588755,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 09:00:00,wind_sfc_ms,4.763192041133274,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 12:00:00,wind_sfc_ms,2.1180415117069895,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 15:00:00,wind_sfc_ms,1.8128982753284013,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 18:00:00,wind_sfc_ms,0.1860107568314509,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-24 21:00:00,wind_sfc_ms,0.8302409210765447,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 00:00:00,wind_sfc_ms,2.7613220597013166,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 03:00:00,wind_sfc_ms,1.5299999713897705,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 06:00:00,wind_sfc_ms,0.7564390247653929,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 09:00:00,wind_sfc_ms,1.5147607612010412,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 12:00:00,wind_sfc_ms,3.6648875432728976,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 15:00:00,wind_sfc_ms,4.2115318597090985,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 18:00:00,wind_sfc_ms,4.092981681359142,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-25 21:00:00,wind_sfc_ms,3.9118410378204,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 00:00:00,wind_sfc_ms,4.167601216476704,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 03:00:00,wind_sfc_ms,3.553941395959595,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 06:00:00,wind_sfc_ms,3.4710950444382447,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 09:00:00,wind_sfc_ms,3.269143707780803,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 12:00:00,wind_sfc_ms,1.637681291605483,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 15:00:00,wind_sfc_ms,1.3911865496497449,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 18:00:00,wind_sfc_ms,1.8402445823294848,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-26 21:00:00,wind_sfc_ms,3.563846203479923,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 00:00:00,wind_sfc_ms,3.2006250428175758,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 03:00:00,wind_sfc_ms,4.335308352363722,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 06:00:00,wind_sfc_ms,3.2480455240344317,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 09:00:00,wind_sfc_ms,0.5554277538510307,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 12:00:00,wind_sfc_ms,1.347367826554352,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 15:00:00,wind_sfc_ms,1.647786379338904,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 18:00:00,wind_sfc_ms,1.387984133275173,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-27 21:00:00,wind_sfc_ms,3.1522055509127385,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 00:00:00,wind_sfc_ms,2.844784709313368,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 03:00:00,wind_sfc_ms,4.29495056569091,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 06:00:00,wind_sfc_ms,6.040943762296614,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 09:00:00,wind_sfc_ms,4.721779471521085,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 12:00:00,wind_sfc_ms,4.657595900706693,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 15:00:00,wind_sfc_ms,4.295974879042205,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 18:00:00,wind_sfc_ms,4.282674194596743,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-28 21:00:00,wind_sfc_ms,3.902332740506976,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 00:00:00,wind_sfc_ms,3.002165895286817,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 03:00:00,wind_sfc_ms,2.08405846400177,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 06:00:00,wind_sfc_ms,0.8616263775534323,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 09:00:00,wind_sfc_ms,0.6264982095397488,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 12:00:00,wind_sfc_ms,1.2701574514742113,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 15:00:00,wind_sfc_ms,2.1467416961241,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 18:00:00,wind_sfc_ms,1.5754364386872117,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs
+2025-12-29 21:00:00,wind_sfc_ms,0.5813776574386791,119.676896,-8.609761,"Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)",gfs

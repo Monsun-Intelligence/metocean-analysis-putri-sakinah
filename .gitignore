@@ -1,5 +1,5 @@
 data/
-figures/
+# figures/ tracked — needed for GitHub Pages static report
 __pycache__/
 *.pyc
 .ipynb_checkpoints/

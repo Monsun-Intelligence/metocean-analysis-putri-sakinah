@@ -132,14 +132,16 @@ def plot_scalar_map(
     )
 
     if u is not None and v is not None:
-        # Thin vectors for readability on densified grids.
-        step = max(1, int(np.ceil(len(lon) / 18)))
+        # Thin vectors for readability on densified grids (~32 across domain).
+        step = max(1, int(np.ceil(len(lon) / 32)))
         lon2d, lat2d = np.meshgrid(lon, lat)
         uu = np.asarray(u)[::step, ::step]
         vv = np.asarray(v)[::step, ::step]
         if direction_only:
+            # Unit vectors + scale_units='width' → uniform visual arrow length
+            # (magnitude is already encoded in the color field).
             mag = np.hypot(uu, vv)
-            mag = np.where(mag > 0, mag, np.nan)
+            mag = np.where(mag > 1e-12, mag, np.nan)
             uu = uu / mag
             vv = vv / mag
             ax.quiver(
@@ -148,10 +150,15 @@ def plot_scalar_map(
                 uu,
                 vv,
                 transform=ccrs.PlateCarree(),
-                scale=25,
-                width=0.003,
+                angles="uv",
+                scale_units="width",
+                scale=36,  # larger → shorter arrows
+                width=0.0022,
+                headwidth=2.8,
+                headlength=3.4,
                 color="#0B2340",
                 alpha=0.75,
+                zorder=2.5,
             )
         else:
             ax.quiver(
