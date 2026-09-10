@@ -103,17 +103,123 @@
           <div class="section-head">
             <h2>Meteogram titik</h2>
             <p>
-              Satu parameter per grafik, dua lokasi. Garis = magnitude; panah =
-              arah (N↑, E→) pada timestep native model.
+              Ekstraksi dua lokasi (dugaan tenggelam &amp; penemuan bangkai).
+              INACAWO 1-jam di atas; GFS/HYCOM 3-jam sebagai pembanding.
             </p>
           </div>
 
+          <h3 class="subhead">INACAWO (~3 km / 1 jam)</h3>
+          <div class="meteogram-stack">
+            <figure class="figure-block">
+              <h3>Significant wave height (Hsig)</h3>
+              <img
+                src="figures/point/inacawo/meteogram_Hsig.png"
+                alt="Meteogram Hsig INACAWO dua lokasi"
+                loading="lazy"
+              />
+              <figcaption>Sumber: INACAWO · meter · panah = arah menuju (N↑ E→)</figcaption>
+            </figure>
+
+            <figure class="figure-block">
+              <h3>Maximum wave height (Hmax)</h3>
+              <img
+                src="figures/point/inacawo/meteogram_Hmax.png"
+                alt="Meteogram Hmax INACAWO dua lokasi"
+                loading="lazy"
+              />
+              <figcaption>Sumber: INACAWO · meter</figcaption>
+            </figure>
+
+            <figure class="figure-block">
+              <h3>Primary swell</h3>
+              <img
+                src="figures/point/inacawo/meteogram_PrimSwell.png"
+                alt="Meteogram primary swell INACAWO dua lokasi"
+                loading="lazy"
+              />
+              <figcaption>Sumber: INACAWO · meter</figcaption>
+            </figure>
+
+            <figure class="figure-block">
+              <h3>Wind speed</h3>
+              <img
+                src="figures/point/inacawo/meteogram_WindSpeed.png"
+                alt="Meteogram angin INACAWO dua lokasi"
+                loading="lazy"
+              />
+              <figcaption>Sumber: INACAWO · knots</figcaption>
+            </figure>
+
+            <figure class="figure-block">
+              <h3>Surface current</h3>
+              <img
+                src="figures/point/inacawo/meteogram_Current.png"
+                alt="Meteogram arus permukaan INACAWO dua lokasi"
+                loading="lazy"
+              />
+              <figcaption>Sumber: INACAWO · cm/s</figcaption>
+            </figure>
+
+            <figure class="figure-block">
+              <h3>Sea surface temperature</h3>
+              <img
+                src="figures/point/inacawo/meteogram_SST.png"
+                alt="Meteogram SST INACAWO dua lokasi"
+                loading="lazy"
+              />
+              <figcaption>Sumber: INACAWO · °C</figcaption>
+            </figure>
+
+            <figure class="figure-block">
+              <h3>Sea surface salinity</h3>
+              <img
+                src="figures/point/inacawo/meteogram_SSS.png"
+                alt="Meteogram SSS INACAWO dua lokasi"
+                loading="lazy"
+              />
+              <figcaption>Sumber: INACAWO · PSU</figcaption>
+            </figure>
+          </div>
+
+          <h3 class="subhead" id="roses">Direction rose · INACAWO</h3>
+          <p class="subhead-note">
+            Distribusi arah per lokasi untuk gelombang, angin, dan arus sepanjang
+            jendela analisis.
+          </p>
+          <div class="rose-grid">
+            <figure class="figure-block">
+              <h3>Wave · Lokasi Tenggelam</h3>
+              <img src="figures/point/inacawo/waverose_Lokasi_Tenggelam.png" alt="Wave rose lokasi tenggelam" loading="lazy" />
+            </figure>
+            <figure class="figure-block">
+              <h3>Wave · Lokasi Temuan</h3>
+              <img src="figures/point/inacawo/waverose_Lokasi_Temuan.png" alt="Wave rose lokasi temuan" loading="lazy" />
+            </figure>
+            <figure class="figure-block">
+              <h3>Wind · Lokasi Tenggelam</h3>
+              <img src="figures/point/inacawo/windrose_Lokasi_Tenggelam.png" alt="Wind rose lokasi tenggelam" loading="lazy" />
+            </figure>
+            <figure class="figure-block">
+              <h3>Wind · Lokasi Temuan</h3>
+              <img src="figures/point/inacawo/windrose_Lokasi_Temuan.png" alt="Wind rose lokasi temuan" loading="lazy" />
+            </figure>
+            <figure class="figure-block">
+              <h3>Current · Lokasi Tenggelam</h3>
+              <img src="figures/point/inacawo/currentrose_Lokasi_Tenggelam.png" alt="Current rose lokasi tenggelam" loading="lazy" />
+            </figure>
+            <figure class="figure-block">
+              <h3>Current · Lokasi Temuan</h3>
+              <img src="figures/point/inacawo/currentrose_Lokasi_Temuan.png" alt="Current rose lokasi temuan" loading="lazy" />
+            </figure>
+          </div>
+
+          <h3 class="subhead">Pembanding · GFS / HYCOM (3 jam)</h3>
           <div class="meteogram-stack">
             <figure class="figure-block">
               <h3>Significant wave height</h3>
               <img
                 src="figures/point/meteogram/swh.png"
-                alt="Meteogram significant wave height di dua lokasi"
+                alt="Meteogram significant wave height GFS dua lokasi"
                 loading="lazy"
               />
               <figcaption>Sumber: NOAA GFS Wave · satuan meter</figcaption>
@@ -123,7 +229,7 @@
               <h3>Primary swell</h3>
               <img
                 src="figures/point/meteogram/swell.png"
-                alt="Meteogram primary swell di dua lokasi"
+                alt="Meteogram primary swell GFS dua lokasi"
                 loading="lazy"
               />
               <figcaption>Sumber: NOAA GFS Wave · satuan meter</figcaption>
@@ -133,7 +239,7 @@
               <h3>Angin 10 m</h3>
               <img
                 src="figures/point/meteogram/wind10m.png"
-                alt="Meteogram angin 10 meter di dua lokasi"
+                alt="Meteogram angin 10 meter GFS dua lokasi"
                 loading="lazy"
               />
               <figcaption>Sumber: NOAA GFS Atmos · satuan m/s</figcaption>
@@ -143,7 +249,7 @@
               <h3>Angin permukaan model gelombang</h3>
               <img
                 src="figures/point/meteogram/wind_sfc.png"
-                alt="Meteogram angin permukaan GFS Wave di dua lokasi"
+                alt="Meteogram angin permukaan GFS Wave dua lokasi"
                 loading="lazy"
               />
               <figcaption>Sumber: NOAA GFS Wave (ugrdsfc/vgrdsfc) · satuan m/s</figcaption>
@@ -153,7 +259,7 @@
               <h3>Arus permukaan</h3>
               <img
                 src="figures/point/meteogram/seacurrent.png"
-                alt="Meteogram arus permukaan HYCOM di dua lokasi"
+                alt="Meteogram arus permukaan HYCOM dua lokasi"
                 loading="lazy"
               />
               <figcaption>Sumber: HYCOM ESPC-D-V02 · satuan m/s</figcaption>
@@ -220,8 +326,7 @@
             <p>
               Model regional resolusi tinggi untuk area Labuan Bajo / Selat Padar.
               Dipakai sebagai referensi detail di selat yang tidak tertangkap grid
-              GFS/HYCOM. Plot siap-pakai (Current, Wind, Swell, Significant Wave
-              Height) diintegrasikan ke viewer spasial.
+              GFS/HYCOM — spasial + ekstraksi titik (meteogram &amp; rose).
             </p>
             <h4>Metadata</h4>
             <table class="spec-table">
@@ -243,23 +348,38 @@
                   <td>23 Des 2025 00Z – 29 Des 2025 00Z</td>
                 </tr>
                 <tr>
-                  <th>Field di halaman</th>
+                  <th>Field spasial</th>
+                  <td>Arus, angin, Hsig (average wave), swell height</td>
+                </tr>
+                <tr>
+                  <th>Field titik</th>
                   <td>
-                    Arus permukaan, angin, significant wave height, swell height
+                    Hsig, Hmax, PrimSwell, WindSpeed, SurfCurrent, SST, SSS + arah
                   </td>
                 </tr>
                 <tr>
                   <th>Path figure</th>
-                  <td><code>figures/spatial/inacawo/{current,wind,swh,swell}/</code></td>
+                  <td>
+                    <code>figures/spatial/inacawo/…</code> ·
+                    <code>figures/point/inacawo/…</code>
+                  </td>
+                </tr>
+                <tr>
+                  <th>CSV ekstraksi</th>
+                  <td>
+                    <code>figures/point/inacawo/Metocean_Analysis_combined.csv</code>
+                    (dan per-lokasi)
+                  </td>
                 </tr>
               </tbody>
             </table>
             <h4>Cara data diambil</h4>
             <p>
-              Frame PNG disiapkan dari output INACAWO (paket
-              <code>23-26.zip</code> + <code>26-29.zip</code>), lalu dinormalisasi
-              penamaan ke <code>t_YYYYMMDDHH.png</code> untuk viewer. Ini bukan
-              unduhan OpenDAP/AWS seperti GFS/HYCOM di repo ini.
+              Frame spasial dari paket <code>23-26.zip</code> +
+              <code>26-29.zip</code> (dinormalisasi ke
+              <code>t_YYYYMMDDHH.png</code>). Ekstraksi titik + meteogram/rose dari
+              <code>titik.zip</code> untuk kedua koordinat kejadian. Bukan unduhan
+              OpenDAP/AWS seperti GFS/HYCOM di repo ini.
             </p>
             <h4>Caveat</h4>
             <ul class="caveat">
@@ -268,8 +388,12 @@
                 lapangan tetap diperlukan.
               </li>
               <li>
-                Styling/marker pada frame INACAWO mengikuti pipeline plot sumber;
-                bisa berbeda dari chrome Monsun pada peta GFS/HYCOM.
+                Styling frame INACAWO mengikuti pipeline plot sumber; berbeda dari
+                chrome Monsun pada peta GFS/HYCOM.
+              </li>
+              <li>
+                Satuan meteogram INACAWO mengikuti sumber (angin knots, arus cm/s);
+                pembanding GFS/HYCOM di halaman ini memakai m/s untuk angin/arus.
               </li>
               <li>
                 Bandingkan dengan HYCOM/GFS pada waktu yang sama untuk melihat
