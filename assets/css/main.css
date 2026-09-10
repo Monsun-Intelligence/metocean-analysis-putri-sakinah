@@ -508,30 +508,98 @@ section {
   text-align: center;
 }
 
-/* —— Models —— */
-.model {
-  padding: 1.4rem 0 1.6rem;
-  border-top: 1px solid var(--line);
+/* —— Models (accordion menu) —— */
+.model-menu {
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.55);
 }
 
-.model:first-of-type {
-  border-top: none;
-  padding-top: 0.25rem;
+.model-menu-hint {
+  margin: 0;
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  border-bottom: 1px solid var(--line);
 }
 
-.model-head {
+.model-item {
+  border-bottom: 1px solid var(--line);
+}
+
+.model-item:last-child {
+  border-bottom: none;
+}
+
+.model-summary {
+  list-style: none;
+  cursor: pointer;
   display: flex;
   flex-wrap: wrap;
-  align-items: baseline;
-  gap: 0.45rem 0.85rem;
-  margin-bottom: 0.55rem;
+  align-items: center;
+  gap: 0.45rem 0.75rem;
+  padding: 0.85rem 1rem;
+  transition: background 0.15s ease;
 }
 
-.model-head h3 {
+.model-summary::-webkit-details-marker {
+  display: none;
+}
+
+.model-summary:hover {
+  background: rgba(14, 116, 144, 0.06);
+}
+
+.model-item[open] > .model-summary {
+  background: rgba(14, 116, 144, 0.08);
+  border-bottom: 1px solid rgba(197, 212, 222, 0.7);
+}
+
+.model-summary-title {
   font-family: var(--font-display);
-  font-size: 1.35rem;
-  margin: 0;
+  font-size: 1.05rem;
   font-weight: 600;
+  color: var(--ink);
+  flex: 1 1 12rem;
+}
+
+.model-summary-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.model-chevron {
+  width: 0.45rem;
+  height: 0.45rem;
+  border-right: 2px solid var(--ink-soft);
+  border-bottom: 2px solid var(--ink-soft);
+  transform: rotate(45deg);
+  margin-left: auto;
+  transition: transform 0.15s ease;
+  flex: 0 0 auto;
+}
+
+.model-item[open] > .model-summary .model-chevron {
+  transform: rotate(225deg);
+  margin-top: 0.2rem;
+}
+
+.model-panel {
+  padding: 0.35rem 1rem 1.15rem;
+}
+
+.model-panel p {
+  margin: 0.45rem 0;
+  color: var(--ink-soft);
+}
+
+.model-panel h4 {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin: 1rem 0 0.4rem;
+  color: var(--sea-deep);
 }
 
 .tag {
@@ -555,20 +623,6 @@ section {
   border-color: rgba(180, 83, 9, 0.4);
   color: var(--warn);
   background: rgba(180, 83, 9, 0.08);
-}
-
-.model p {
-  margin: 0.45rem 0;
-  color: var(--ink-soft);
-}
-
-.model h4 {
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  margin: 1rem 0 0.4rem;
-  color: var(--sea-deep);
 }
 
 .spec-table {

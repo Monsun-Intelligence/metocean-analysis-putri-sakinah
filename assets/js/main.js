@@ -222,5 +222,22 @@
     render();
   }
 
-  document.addEventListener("DOMContentLoaded", initViewer);
+  document.addEventListener("DOMContentLoaded", () => {
+    initViewer();
+    initModelMenu();
+  });
+
+  function initModelMenu() {
+    const root = document.querySelector("[data-model-menu]");
+    if (!root) return;
+    const items = [...root.querySelectorAll("details.model-item")];
+    items.forEach((item) => {
+      item.addEventListener("toggle", () => {
+        if (!item.open) return;
+        items.forEach((other) => {
+          if (other !== item) other.open = false;
+        });
+      });
+    });
+  }
 })();

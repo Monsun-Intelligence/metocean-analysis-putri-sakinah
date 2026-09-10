@@ -324,7 +324,7 @@
         </div>
       </section>
 
-      <section id="model">
+            <section id="model">
         <div class="wrap">
           <div class="section-head">
             <h2>Model, pengambilan data &amp; caveat</h2>
@@ -334,13 +334,19 @@
             </p>
           </div>
 
-          <article class="model" id="model-inacawo">
-            <div class="model-head">
-              <h3>INACAWO (~3 km / 1 jam)</h3>
-              <span class="tag tag-primary">Primary · regional</span>
-              <span class="tag">Gelombang · angin · arus</span>
-            </div>
-            <p>
+          <div class="model-menu" data-model-menu>
+            <p class="model-menu-hint">Pilih model untuk melihat metadata, pengambilan data, dan caveat.</p>
+            <details class="model-item" id="model-inacawo">
+              <summary class="model-summary">
+                <span class="model-summary-title">INACAWO (~3 km / 1 jam)</span>
+                <span class="model-summary-tags">
+                <span class="tag tag-primary">Primary · regional</span>
+                <span class="tag">Gelombang · angin · arus</span>
+                </span>
+                <span class="model-chevron" aria-hidden="true"></span>
+              </summary>
+              <div class="model-panel">
+<p>
               Model regional resolusi tinggi untuk area Labuan Bajo / Selat Padar.
               Dipakai sebagai referensi detail di selat yang tidak tertangkap grid
               GFS/HYCOM — spasial + ekstraksi titik (meteogram &amp; rose).
@@ -417,15 +423,19 @@
                 sinyal selat yang hilang di grid kasar.
               </li>
             </ul>
-          </article>
-
-          <article class="model" id="model-gfs-wave">
-            <div class="model-head">
-              <h3>NOAA GFS Wave</h3>
-              <span class="tag tag-primary">Primary</span>
-              <span class="tag">Gelombang</span>
-            </div>
-            <p>
+              </div>
+            </details>
+            <details class="model-item" id="model-gfs-wave">
+              <summary class="model-summary">
+                <span class="model-summary-title">NOAA GFS Wave</span>
+                <span class="model-summary-tags">
+                <span class="tag tag-primary">Primary</span>
+                <span class="tag">Gelombang</span>
+                </span>
+                <span class="model-chevron" aria-hidden="true"></span>
+              </summary>
+              <div class="model-panel">
+<p>
               Model gelombang global yang digandeng GFS. Dipakai untuk tinggi
               gelombang signifikan (SWH), swell primer, arah gelombang, serta
               angin permukaan pada grid gelombang.
@@ -486,15 +496,19 @@
                 lokasi titik sampling, atau ketidakpastian laporan lapangan.
               </li>
             </ul>
-          </article>
-
-          <article class="model" id="model-gfs-atmos">
-            <div class="model-head">
-              <h3>NOAA GFS Atmos (10 m wind)</h3>
-              <span class="tag tag-primary">Primary</span>
-              <span class="tag">Angin</span>
-            </div>
-            <p>
+              </div>
+            </details>
+            <details class="model-item" id="model-gfs-atmos">
+              <summary class="model-summary">
+                <span class="model-summary-title">NOAA GFS Atmos (10 m wind)</span>
+                <span class="model-summary-tags">
+                <span class="tag tag-primary">Primary</span>
+                <span class="tag">Angin</span>
+                </span>
+                <span class="model-chevron" aria-hidden="true"></span>
+              </summary>
+              <div class="model-panel">
+<p>
               Komponen angin permukaan 10 m dari paket atmosfer GFS 0.25°, untuk
               meteogram dan peta angin.
             </p>
@@ -539,15 +553,19 @@
               </li>
               <li>Forecast hour pendek dipakai untuk membangun deret historis valid-time.</li>
             </ul>
-          </article>
-
-          <article class="model" id="model-hycom">
-            <div class="model-head">
-              <h3>HYCOM ESPC-D-V02</h3>
-              <span class="tag tag-primary">Primary</span>
-              <span class="tag">Arus</span>
-            </div>
-            <p>
+              </div>
+            </details>
+            <details class="model-item" id="model-hycom">
+              <summary class="model-summary">
+                <span class="model-summary-title">HYCOM ESPC-D-V02</span>
+                <span class="model-summary-tags">
+                <span class="tag tag-primary">Primary</span>
+                <span class="tag">Arus</span>
+                </span>
+                <span class="model-chevron" aria-hidden="true"></span>
+              </summary>
+              <div class="model-panel">
+<p>
               Arus permukaan (lapisan terdekat permukaan) dari archive HYCOM
               ESPC-D-V02, untuk peta dan meteogram arus.
             </p>
@@ -608,15 +626,19 @@
                 tetap diperlukan untuk investigasi forensik.
               </li>
             </ul>
-          </article>
-
-          <article class="model" id="model-era5">
-            <div class="model-head">
-              <h3>ERA5 (opsional)</h3>
-              <span class="tag">Optional</span>
-              <span class="tag">Reanalisis</span>
-            </div>
-            <p>
+              </div>
+            </details>
+            <details class="model-item" id="model-era5">
+              <summary class="model-summary">
+                <span class="model-summary-title">ERA5 (opsional)</span>
+                <span class="model-summary-tags">
+                <span class="tag">Optional</span>
+                <span class="tag">Reanalisis</span>
+                </span>
+                <span class="model-chevron" aria-hidden="true"></span>
+              </summary>
+              <div class="model-panel">
+<p>
               Reanalisis ECMWF lewat Climate Data Store — kandidat pembanding
               gelombang/angin 1-jam. Belum menjadi sumber primary di halaman ini.
             </p>
@@ -642,15 +664,19 @@
               <li>Latensi/reanalisis: tidak realtime; butuh akun CDS.</li>
               <li>Resolusi spasial masih kasar untuk selat sempit — mirip GFS untuk channeling lokal.</li>
             </ul>
-          </article>
-
-          <article class="model" id="model-cmems">
-            <div class="model-head">
-              <h3>CMEMS global ocean (opsional)</h3>
-              <span class="tag">Optional</span>
-              <span class="tag">Arus</span>
-            </div>
-            <p>
+              </div>
+            </details>
+            <details class="model-item" id="model-cmems">
+              <summary class="model-summary">
+                <span class="model-summary-title">CMEMS global ocean (opsional)</span>
+                <span class="model-summary-tags">
+                <span class="tag">Optional</span>
+                <span class="tag">Arus</span>
+                </span>
+                <span class="model-chevron" aria-hidden="true"></span>
+              </summary>
+              <div class="model-panel">
+<p>
               Analisis/prakiraan fisika laut global Copernicus Marine sebagai
               pembanding arus permukaan hourly.
             </p>
@@ -680,7 +706,9 @@
               <li>Produk model global; kualitas pantai/selat terbatas.</li>
               <li>Perlu kredensial Copernicus Marine; skip otomatis jika tidak tersedia.</li>
             </ul>
-          </article>
+              </div>
+            </details>
+          </div>
 
           <div class="method-note">
             <strong>Catatan metodologi tampilan.</strong>
