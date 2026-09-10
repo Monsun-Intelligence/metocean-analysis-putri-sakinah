@@ -103,81 +103,151 @@
           <div class="section-head">
             <h2>Meteogram titik</h2>
             <p>
-              Ekstraksi dua lokasi (dugaan tenggelam &amp; penemuan bangkai).
-              INACAWO 1-jam di atas; GFS/HYCOM 3-jam sebagai pembanding.
+              Parameter yang sama ditampilkan berdampingan: INACAWO (kiri, 1 jam)
+              vs GFS/HYCOM (kanan, 3 jam). Kedua plot membandingkan lokasi dugaan
+              tenggelam dan penemuan bangkai.
             </p>
           </div>
 
-          <h3 class="subhead">INACAWO (~3 km / 1 jam)</h3>
-          <div class="meteogram-stack">
-            <figure class="figure-block">
-              <h3>Significant wave height (Hsig)</h3>
-              <img
-                src="figures/point/inacawo/meteogram_Hsig.png"
-                alt="Meteogram Hsig INACAWO dua lokasi"
-                loading="lazy"
-              />
-              <figcaption>Sumber: INACAWO · meter · panah = arah menuju (N↑ E→)</figcaption>
-            </figure>
+          <h3 class="subhead">Perbandingan parameter yang sama</h3>
+          <div class="compare-stack">
+            <article class="compare-row">
+              <h3 class="compare-title">Significant wave height</h3>
+              <div class="compare-pair">
+                <figure class="figure-block">
+                  <h4>INACAWO · Hsig</h4>
+                  <img
+                    src="figures/point/inacawo/meteogram_Hsig.png"
+                    alt="Meteogram Hsig INACAWO"
+                    loading="lazy"
+                  />
+                  <figcaption>~3 km · 1 jam · meter</figcaption>
+                </figure>
+                <figure class="figure-block">
+                  <h4>GFS Wave · SWH</h4>
+                  <img
+                    src="figures/point/meteogram/swh.png"
+                    alt="Meteogram SWH GFS"
+                    loading="lazy"
+                  />
+                  <figcaption>0.25° · 3 jam · meter</figcaption>
+                </figure>
+              </div>
+            </article>
 
+            <article class="compare-row">
+              <h3 class="compare-title">Primary swell</h3>
+              <div class="compare-pair">
+                <figure class="figure-block">
+                  <h4>INACAWO · PrimSwell</h4>
+                  <img
+                    src="figures/point/inacawo/meteogram_PrimSwell.png"
+                    alt="Meteogram primary swell INACAWO"
+                    loading="lazy"
+                  />
+                  <figcaption>~3 km · 1 jam · meter</figcaption>
+                </figure>
+                <figure class="figure-block">
+                  <h4>GFS Wave · Swell</h4>
+                  <img
+                    src="figures/point/meteogram/swell.png"
+                    alt="Meteogram swell GFS"
+                    loading="lazy"
+                  />
+                  <figcaption>0.25° · 3 jam · meter</figcaption>
+                </figure>
+              </div>
+            </article>
+
+            <article class="compare-row">
+              <h3 class="compare-title">Wind</h3>
+              <div class="compare-pair">
+                <figure class="figure-block">
+                  <h4>INACAWO · Wind speed</h4>
+                  <img
+                    src="figures/point/inacawo/meteogram_WindSpeed.png"
+                    alt="Meteogram angin INACAWO"
+                    loading="lazy"
+                  />
+                  <figcaption>~3 km · 1 jam · knots</figcaption>
+                </figure>
+                <figure class="figure-block">
+                  <h4>GFS Atmos · 10 m wind</h4>
+                  <img
+                    src="figures/point/meteogram/wind10m.png"
+                    alt="Meteogram angin 10 m GFS"
+                    loading="lazy"
+                  />
+                  <figcaption>0.25° · 3 jam · m/s</figcaption>
+                </figure>
+              </div>
+            </article>
+
+            <article class="compare-row">
+              <h3 class="compare-title">Surface current</h3>
+              <div class="compare-pair">
+                <figure class="figure-block">
+                  <h4>INACAWO · Current</h4>
+                  <img
+                    src="figures/point/inacawo/meteogram_Current.png"
+                    alt="Meteogram arus INACAWO"
+                    loading="lazy"
+                  />
+                  <figcaption>~3 km · 1 jam · cm/s</figcaption>
+                </figure>
+                <figure class="figure-block">
+                  <h4>HYCOM · Surface current</h4>
+                  <img
+                    src="figures/point/meteogram/seacurrent.png"
+                    alt="Meteogram arus HYCOM"
+                    loading="lazy"
+                  />
+                  <figcaption>~1/12° · 3 jam · m/s</figcaption>
+                </figure>
+              </div>
+            </article>
+          </div>
+
+          <h3 class="subhead">Hanya INACAWO</h3>
+          <p class="subhead-note">
+            Parameter tanpa pasangan setara di GFS/HYCOM primary pada halaman ini.
+          </p>
+          <div class="meteogram-stack meteogram-stack-narrow">
             <figure class="figure-block">
               <h3>Maximum wave height (Hmax)</h3>
               <img
                 src="figures/point/inacawo/meteogram_Hmax.png"
-                alt="Meteogram Hmax INACAWO dua lokasi"
+                alt="Meteogram Hmax INACAWO"
                 loading="lazy"
               />
               <figcaption>Sumber: INACAWO · meter</figcaption>
             </figure>
-
-            <figure class="figure-block">
-              <h3>Primary swell</h3>
-              <img
-                src="figures/point/inacawo/meteogram_PrimSwell.png"
-                alt="Meteogram primary swell INACAWO dua lokasi"
-                loading="lazy"
-              />
-              <figcaption>Sumber: INACAWO · meter</figcaption>
-            </figure>
-
-            <figure class="figure-block">
-              <h3>Wind speed</h3>
-              <img
-                src="figures/point/inacawo/meteogram_WindSpeed.png"
-                alt="Meteogram angin INACAWO dua lokasi"
-                loading="lazy"
-              />
-              <figcaption>Sumber: INACAWO · knots</figcaption>
-            </figure>
-
-            <figure class="figure-block">
-              <h3>Surface current</h3>
-              <img
-                src="figures/point/inacawo/meteogram_Current.png"
-                alt="Meteogram arus permukaan INACAWO dua lokasi"
-                loading="lazy"
-              />
-              <figcaption>Sumber: INACAWO · cm/s</figcaption>
-            </figure>
-
             <figure class="figure-block">
               <h3>Sea surface temperature</h3>
               <img
                 src="figures/point/inacawo/meteogram_SST.png"
-                alt="Meteogram SST INACAWO dua lokasi"
+                alt="Meteogram SST INACAWO"
                 loading="lazy"
               />
               <figcaption>Sumber: INACAWO · °C</figcaption>
             </figure>
-
             <figure class="figure-block">
               <h3>Sea surface salinity</h3>
               <img
                 src="figures/point/inacawo/meteogram_SSS.png"
-                alt="Meteogram SSS INACAWO dua lokasi"
+                alt="Meteogram SSS INACAWO"
                 loading="lazy"
               />
               <figcaption>Sumber: INACAWO · PSU</figcaption>
+            </figure>
+            <figure class="figure-block">
+              <h3>GFS Wave · angin permukaan (tambahan)</h3>
+              <img
+                src="figures/point/meteogram/wind_sfc.png"
+                alt="Meteogram angin permukaan GFS Wave"
+                loading="lazy"
+              />
+              <figcaption>NOAA GFS Wave ugrdsfc/vgrdsfc · m/s (tidak dipasangkan)</figcaption>
             </figure>
           </div>
 
@@ -210,59 +280,6 @@
             <figure class="figure-block">
               <h3>Current · Lokasi Temuan</h3>
               <img src="figures/point/inacawo/currentrose_Lokasi_Temuan.png" alt="Current rose lokasi temuan" loading="lazy" />
-            </figure>
-          </div>
-
-          <h3 class="subhead">Pembanding · GFS / HYCOM (3 jam)</h3>
-          <div class="meteogram-stack">
-            <figure class="figure-block">
-              <h3>Significant wave height</h3>
-              <img
-                src="figures/point/meteogram/swh.png"
-                alt="Meteogram significant wave height GFS dua lokasi"
-                loading="lazy"
-              />
-              <figcaption>Sumber: NOAA GFS Wave · satuan meter</figcaption>
-            </figure>
-
-            <figure class="figure-block">
-              <h3>Primary swell</h3>
-              <img
-                src="figures/point/meteogram/swell.png"
-                alt="Meteogram primary swell GFS dua lokasi"
-                loading="lazy"
-              />
-              <figcaption>Sumber: NOAA GFS Wave · satuan meter</figcaption>
-            </figure>
-
-            <figure class="figure-block">
-              <h3>Angin 10 m</h3>
-              <img
-                src="figures/point/meteogram/wind10m.png"
-                alt="Meteogram angin 10 meter GFS dua lokasi"
-                loading="lazy"
-              />
-              <figcaption>Sumber: NOAA GFS Atmos · satuan m/s</figcaption>
-            </figure>
-
-            <figure class="figure-block">
-              <h3>Angin permukaan model gelombang</h3>
-              <img
-                src="figures/point/meteogram/wind_sfc.png"
-                alt="Meteogram angin permukaan GFS Wave dua lokasi"
-                loading="lazy"
-              />
-              <figcaption>Sumber: NOAA GFS Wave (ugrdsfc/vgrdsfc) · satuan m/s</figcaption>
-            </figure>
-
-            <figure class="figure-block">
-              <h3>Arus permukaan</h3>
-              <img
-                src="figures/point/meteogram/seacurrent.png"
-                alt="Meteogram arus permukaan HYCOM dua lokasi"
-                loading="lazy"
-              />
-              <figcaption>Sumber: HYCOM ESPC-D-V02 · satuan m/s</figcaption>
             </figure>
           </div>
         </div>

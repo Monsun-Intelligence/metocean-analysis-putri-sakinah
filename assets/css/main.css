@@ -314,6 +314,60 @@ section {
   gap: 1.75rem;
 }
 
+.meteogram-stack-narrow {
+  max-width: 42rem;
+}
+
+.compare-stack {
+  display: grid;
+  gap: 2rem;
+}
+
+.compare-row {
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.compare-row:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.compare-title {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0 0 0.75rem;
+  letter-spacing: -0.01em;
+}
+
+.compare-pair {
+  display: grid;
+  gap: 0.85rem 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+}
+
+.compare-pair .figure-block h4 {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--sea-deep);
+  margin: 0 0 0.45rem;
+}
+
+.compare-pair .figure-block h3 {
+  font-size: 1rem;
+}
+
+@media (max-width: 820px) {
+  .compare-pair {
+    grid-template-columns: 1fr;
+  }
+}
+
 .rose-grid {
   display: grid;
   gap: 1.15rem;
