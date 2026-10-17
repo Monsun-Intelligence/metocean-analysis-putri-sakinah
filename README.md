@@ -63,6 +63,24 @@ Output:
 ## Catatan metodologi
 
 - GFS Wave/Atmos historis dari `noaa-gfs-bdp-pds` (NOMADS terlalu pendek untuk Des 2025).
-- HYCOM memakai archive NCSS `ESPC-D-V02/{u,v}3z/2025` (maks. 1 hari per request).
-- Marker peta: estimasi titik tenggelam + lokasi bangkai (6 Jan 2026).
+- HYCOM memakai archive OpenDAP `ESPC-D-V02/{u,v}3z/{year}`.
+- Marker peta: estimasi titik tenggelam + lokasi bangkai (Loh Pede).
 - Upsampling hanya untuk readability peta; sinyal asli tetap skala model.
+
+## GitHub Pages
+
+Static report: [`index.html`](index.html) (metogram, spatial viewer, metadata model + caveat).
+
+1. Push repo (pastikan `figures/` ikut ter-commit — dibutuhkan halaman).
+2. Settings → Pages → Source: **Deploy from a branch** → branch `main` (atau `master`) → folder **`/` (root)**.
+3. `.nojekyll` sudah ada agar GitHub tidak memproses lewat Jekyll.
+
+Preview lokal:
+
+```bash
+cd blog/01-putri-sakinah
+python3 -m http.server 8080
+# buka http://127.0.0.1:8080/
+```
+
+Slot **INACAWO ~3 km / 1 jam** sudah disiapkan di halaman (`#inacawo`); integrasi data menyusul.

@@ -5,16 +5,16 @@ event:
   # Local reports: ~20:30–21:00 WITA (UTC+8) on 26 Dec 2025
   time_local: "2025-12-26T20:30:00+08:00"
   time_utc: "2025-12-26T12:30:00Z"
-  # Estimated sinking location (~23 nm west of Marina Labuan Bajo, Padar Strait)
+  # Estimated sinking location (Selat Padar)
   incident:
-    lon: 119.55
-    lat: -8.55
-    label: Estimated sinking (Selat Padar)
-  # Wreck found 6 Jan 2026 (~7.5 nm from sinking site)
+    lon: 119.611900
+    lat: -8.609794
+    label: Titik Dugaan Tenggelam (Selat Padar)
+  # Wreck found at Loh Pede, Pulau Komodo (6 Jan 2026)
   wreck:
-    lon: 119.676895
+    lon: 119.676896
     lat: -8.609761
-    label: Wreck (6 Jan 2026)
+    label: Titik Penemuan Bangkai Kapal (Loh Pede, Pulau Komodo)
   reported_swh_m: [2.0, 3.0]
 
 domain:

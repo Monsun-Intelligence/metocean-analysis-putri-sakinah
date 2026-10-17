@@ -224,7 +224,7 @@ def plot_hycom_current(cfg: dict) -> None:
             densified=True,
             u=u.values * scale,
             v=v.values * scale,
-            direction_only=False,
+            direction_only=True,  # uniform arrow length; magnitude via color
             dpi=int(cfg["plot"]["dpi"]),
         )
         _save(fig, out_root / f"t_{stamp}.{cfg['plot']['fileformat']}")
